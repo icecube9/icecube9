@@ -1,4 +1,4 @@
-## Hi Im Sergio Z
+## ice cube
 ## Career Overview 
 I am a rising senior at Univeristy Heights High School in Bronx, NY
 I like computer science and data science & analytics and hope to pursue something related to those interests going into college
